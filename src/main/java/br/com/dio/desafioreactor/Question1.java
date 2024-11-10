@@ -2,7 +2,6 @@ package br.com.dio.desafioreactor;
 
 import reactor.core.publisher.Flux;
 
-import java.util.HashMap;
 import java.util.List;
 
 public class Question1 {
